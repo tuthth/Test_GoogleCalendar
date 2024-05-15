@@ -16,6 +16,16 @@
 
 ![image](https://github.com/tuthth/Test_GoogleCalendar/assets/121854488/71195023-6a43-497a-b6b4-de18cef33531)
 
+## Để thay thế calendar id, truy cập Google Calendar và làm theo ảnh
+
+![image](https://github.com/tuthth/Test_GoogleCalendar/assets/121854488/e8a4e482-e1e0-4d46-b6c6-e47c98091a15)
+
+Kéo đến đoạn này, ID lịch nằm ở đây
+
+![image](https://github.com/tuthth/Test_GoogleCalendar/assets/121854488/726d26ae-2419-4f3a-8c3d-2d2f927eb3e3)
+
+
+
 
 # CHÚC MỌI NGƯỜI THÀNH CÔNG
 
