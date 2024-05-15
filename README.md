@@ -20,4 +20,4 @@
 # CHÚC MỌI NGƯỜI THÀNH CÔNG
 
 
-
+P/s: Hướng dẫn được viết bằng C# .NET 8, bạn có thể tự convert sang các ngôn ngữ khác Google có hỗ trợ như Java, Node.js hoặc Python. Các ngôn ngữ này được Google hỗ trợ nhiều hơn nên có thể xử lí 1 số tác vụ C# không làm được thông qua GoogleApi, ví dụ như quản lí ai tham gia, tương tác như thế nào trong buổi meeting,... :v
